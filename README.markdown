@@ -1,4 +1,4 @@
-# README: Types_of_Regression.ipynb
+# Regression models 
 
 ## Overview
 This Jupyter Notebook (`Types_of_Regression.ipynb`) demonstrates the implementation of a Multi-Layer Perceptron (MLP) regression model using Scikit-learn's `MLPRegressor`. It generates a synthetic dataset based on a sine function with added noise, trains an MLP model, and visualizes the actual data alongside the model's predictions.
