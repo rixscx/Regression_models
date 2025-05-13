@@ -146,3 +146,32 @@ Feel free to fork the repo, suggest improvements, or reach out with feedback.
 
 This content is open-source and shared under the [MIT License](LICENSE).
 
+---
+
+
+## 🙋‍♀️ Contributing
+
+Pull requests are welcome! You can contribute by adding:
+
+- 📈 Visualizations  
+- 📓 Notebooks for classification/regression use cases  
+- 📊 Sample datasets  
+- 🔁 CART implementations in different languages  
+
+---
+
+## 📬 Contact
+
+Questions or feedback? Reach out via [LinkedIn](https://www.linkedin.com/in/rixscx) or open an issue on this repository.
+
+
+
+### 🙌 **Contributors**
+#### [Manish P](https://github.com/rixscx) <br>
+#### under guidance of [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu) <br>
+---
+
+❤️ Thank You!
+Thank you for checking out our project! We hope this inspires you to explore the intersection of AI and healthcare. Feel free to reach out for questions, suggestions, or collaborations.
+
+<br><br>
